@@ -184,7 +184,7 @@ class recraftMC(customtkinter.CTk):
         self.frame = customtkinter.CTkScrollableFrame(self.home_frame, width=550, height=200)  # Устанавливаем размер рамки
         self.frame.grid(row=3, column=0, sticky="s")  # Используем grid вместо pack
 
-        self.changelog = customtkinter.CTkLabel(self.frame, text="Смена названия, больше никакого Cultism, есть только re:Craft! \n Интерфейс, теперь в домашней странице будет список изменений и новости \n Также в интерфейсе изменен шрифт \n Добавлен терминал в котором отображаются логи игры \n Изменены настройки \n ")
+        self.changelog = customtkinter.CTkLabel(self.frame, text="Смена названия, больше никакого Cultism, есть только re:Craft! \n Интерфейс, теперь в домашней странице будет список изменений и новости \n Также в интерфейсе изменен шрифт \n Добавлен терминал в котором отображаются логи игры \n Изменены настройки \n Исходный код теперь есть на GitHub")
         self.changelog.grid(row=4, column=0, sticky="s", padx=20)
 
 
