@@ -35,6 +35,8 @@ minecraft_directory = minecraft_launcher_lib.utils.get_minecraft_directory()
 
 customtkinter.set_default_color_theme("assets/green.json")
 
+version = '0.1bp'
+
 class recraftMC(customtkinter.CTk):
     def __init__(self):
         super().__init__()
@@ -176,7 +178,7 @@ class recraftMC(customtkinter.CTk):
         #self.update_greeting()
 
         #новости, чанджлог
-        self.changelog = customtkinter.CTkLabel(self.home_frame, text="Изменения в версии 0.1:",
+        self.changelog = customtkinter.CTkLabel(self.home_frame, text="Изменения в версии 0.1bp:",
                                                  compound="left", font=customtkinter.CTkFont(size=20, weight="normal"))
         self.changelog.grid(row=2, column=0, sticky="s", padx=20, pady=(0, 20))
 
