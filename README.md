@@ -12,7 +12,7 @@ Otherwise the code will crash
   ```
   git clone https://github.com/iamenexis/recraft/
   ```
- - P.S
+- P.S
   - If you don't have git, you need to install it: https://git-scm.com/downloads
   - To get started, you need to install the necessary Python libraries. Go to the recraft folder and enter this command in cmd or terminal:
 
