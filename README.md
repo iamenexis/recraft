@@ -8,9 +8,7 @@ Modern minecraft launcher written in python
 The folder with assets must be in the same directory as main.py
 Otherwise the code will crash
 
-
-
-🔧 How to edit source code
+# 🔧 How to edit source code
 - Python must be installed on the computer
   
   ```
