@@ -3,7 +3,7 @@
 # re:Craft
 Modern minecraft launcher written in python
 
-
+<div align="left">
 ⚠️ Warning!
 The folder with assets must be in the same directory as main.py
 Otherwise the code will crash
