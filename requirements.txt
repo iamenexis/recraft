@@ -1,0 +1,7 @@
+customtkinter==5.2.2
+Pillow==9.4.0
+keyboard==0.13.5
+win10toast==0.9
+minecraft_launcher_lib==5.0.0
+random_username==1.0.2
+pystray==0.19.4
